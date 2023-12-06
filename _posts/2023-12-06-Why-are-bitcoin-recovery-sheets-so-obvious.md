@@ -61,6 +61,9 @@ In the end you would have 24 words highlighted or marked in some way within the 
 
 ![How Novel works](/images/jaguar)
 
+<img src="/images/jaguar" width="25%" alt="How Novel wallet works">
+
+
 ## Creating the Novel Wallet
 
 This proved to be a lot harder than expected.
