@@ -2,8 +2,6 @@
 published: true
 ---
 
-## Why are bitcoin recovery sheets so obvious?
-
 This is something that I was thinking about recently.
 
 I get that brands want to slap their logo on whatever, but who is going to be sharing a picture of their recovery sheet?
