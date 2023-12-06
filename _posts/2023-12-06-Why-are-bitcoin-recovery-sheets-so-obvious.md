@@ -59,8 +59,6 @@ There are 24 chapters in the book and, in each chapter, every BIP39 word will ap
 Let’s say the eleventh word of your seed phrase was “jaguar” you would go through chapter eleven, find the word “jaguar” and highlight it or put some marking that you would recognize and then move onto chapter twelve to find the next word of your seed phrase.
 In the end you would have 24 words highlighted or marked in some way within the book and that’s it.
 
-![How Novel works](/images/jaguar)
-
 <img src="/images/jaguar" width="25%" alt="How Novel wallet works">
 
 
