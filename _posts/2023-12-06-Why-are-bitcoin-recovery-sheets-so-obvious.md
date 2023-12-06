@@ -87,13 +87,13 @@ This is still not perfect and page numbers are more of “it might be on this pa
 
 ## I am open sourcing this for individual use
 
-You can find the script that I used on Github.
+You can find the script that I used on [Github](https://github.com/boomahora/NovelWallet).
 
-Here is the print PDF so that you can print it yourself if you want maximum anonymity.
+Here is the [print PDF](https://github.com/boomahora/NovelWallet/blob/main/Novel%20Wallet%20-%20Full%20content.pdf) so that you can print it yourself if you want maximum anonymity.
 
-You can also buy the prototype from Amazon if you don’t want to go through the hassle of printing.
+You can also buy the [prototype](https://www.amazon.com/dp/B0CN3YGBHM) from Amazon if you don’t want to go through the hassle of printing.
 
-Here is the list of BIP39 words mapped to their possible page numbers.
+Here is the [list of BIP39 words mapped](https://github.com/boomahora/NovelWallet/blob/main/Word%20page%20locations.xlsx) to their possible page numbers.
 
 ## Quick disclaimer here
 
@@ -107,4 +107,4 @@ Simply because I thought it would be a fun weekend project (although it took a b
 
 It’s not a million-dollar idea and will not change the world, but it was fun to do.
 
-If you want to follow my next weekend project feel free to connect with me on Linkedin or you can follow my Substack. 
+If you want to follow my next weekend project feel free to connect with me on [Linkedin](https://linkedin.com/in/alexthecannon) or you can follow my [newsletter](https://alexcannon.substack.com/). 
