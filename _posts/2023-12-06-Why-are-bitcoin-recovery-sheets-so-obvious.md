@@ -16,7 +16,7 @@ For the past few years, my job has revolved around digital assets like Bitcoin, 
 
 I don’t believe that a single paper wallet should be the sole method of custody, but rather a mixture and geographic distribution of the many options (hardware, multisig, metal, etc) out there.
 
-The idea of the Novel Wallet did not come from a place of maximum security, but rather, just an idea I thought was cool.
+The idea of the [Novel Wallet](https://novelwallet.com) did not come from a place of maximum security, but rather, just an idea I thought was cool.
 
 I’ve always enjoyed stories about finding lost treasure and I do think in the future, there will instances of people recovering lost wallets from odd places and this somewhat played into the thinking behind the Novel Wallet.
 
@@ -57,7 +57,7 @@ There are 24 chapters in the book and, in each chapter, every BIP39 word will ap
 Let’s say the eleventh word of your seed phrase was “jaguar” you would go through chapter eleven, find the word “jaguar” and highlight it or put some marking that you would recognize and then move onto chapter twelve to find the next word of your seed phrase.
 In the end you would have 24 words highlighted or marked in some way within the book and that’s it.
 
-<img src="/images/jaguar" width="25%" alt="How Novel wallet works">
+<img src="/images/jaguar" width="50%" alt="How Novel wallet works">
 
 
 ## Creating the Novel Wallet
