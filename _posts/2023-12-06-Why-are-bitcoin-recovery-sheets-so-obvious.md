@@ -10,6 +10,8 @@ Maybe it is so you don’t confuse it with your other sheets of 24 words that yo
 
 Whatever the reason, considering how important this list of words is, I don’t think you should be giving any clues on what they mean. 
 
+<img src="/images/novel" width="50%" alt="Recovery Sheet">
+
 ## The idea behind the Novel Wallet
 
 For the past few years, my job has revolved around digital assets like Bitcoin, meaning, the importance of security has been beaten into my head.
